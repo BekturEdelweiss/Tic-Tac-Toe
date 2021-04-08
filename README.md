@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Tic-Tac-Toe game (non-interactive). Hello new branch.
+Tic-Tac-Toe game (non-interactive).
 
 1. The program accepts a single integer argument on the command line representing the board size.
    Tic-tac-toe traditionally has a 3x3 board size but your program should support an NxN board where N is
